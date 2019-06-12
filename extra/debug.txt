@@ -1,0 +1,11 @@
+	//echo $data[0]['contestName']."<br/>";
+	$number_Of_Contests = count($data);
+	//echo $number_Of_Contests;
+	//print_r($response['result']);
+	//print_r($data);
+	//print_r($data['status']);
+	//print_r($data['result']);
+	//print_r($data['result'][0]);
+	//print_r($data['result'][0]['contestName']);
+	//echo count($data['result'][0]);
+	//print_r($data[0]);

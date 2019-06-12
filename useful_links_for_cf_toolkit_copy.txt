@@ -1,0 +1,60 @@
+http://www.bugecode.com/post.php?pid=10011
+
+https://www.programmableweb.com/api/codeforces
+
+http://codeforces.com/api/user.rating?handle=onirban
+
+http://www.kodingmadesimple.com/2014/12/how-to-insert-json-data-into-mysql-php.html
+
+http://www.kodingmadesimple.com/2014/12/how-to-insert-json-data-into-mysql-php.html
+
+http://codeforces.com/api/help/methods#user.info
+
+https://developers.google.com/web/tools/chrome-devtools/
+
+https://www.freecodecamp.org/map#nested-collapseBasicJavaScript
+
+http://php.net/manual/en/curl.examples-basic.php
+
+mysql using PDO:
+https://www.a2hosting.com/kb/developer-corner/mysql/connect-to-mysql-using-php
+
+https://www.youtube.com/watch?v=7Rt-wXLud7o&list=PLz_6dB4PItBEQEbVSAt6vrTOACQZD1K1E&index=9
+-------------------------------------------------------------------------------------------
+
+php and mysql related :
+https://stackoverflow.com/questions/13045279/if-isset-post
+
+
+mysql pdo exceptiion:
+https://stackoverflow.com/questions/12976697/pdo-catch-and-output-mysql-errors
+
+https://code.tutsplus.com/tutorials/php-database-access-are-you-doing-it-correctly--net-25338
+
+
+CREATE TABLE if not exists:
+https://stackoverflow.com/questions/44430422/php-check-if-database-and-table-exists-if-not-create-it
+
+https://stackoverflow.com/questions/19577056/using-pdo-to-create-table
+
+drop table if exists and recreate it:
+https://stackoverflow.com/questions/20155989/if-table-exists-drop-table-then-create-it-if-it-does-not-exist-just-create-it
+
+fetch result as array from PDO :
+https://stackoverflow.com/questions/10911757/how-to-use-pdo-to-fetch-results-array-in-php
+
+mysql tutorials:
+http://www.mysqltutorial.org/mysql-json/
+
+
+mysql database connection (using PDO) in separate class:
+https://stackoverflow.com/questions/5410998/php-pdo-mysql-connect-confusing-syntax-problem
+
+mysql prepare documentation:
+http://php.net/manual/en/mysqli.prepare.php
+
+Data_Mapper for pdo (for maintainablity):
+https://stackoverflow.com/questions/19337676/saving-my-pdo-connection-as-a-global-variable
+
+run php online : go to http://phpfiddle.org/
+the Code space

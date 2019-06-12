@@ -1,0 +1,3 @@
+DB Name	:id3793042_cf_ttolkit_db	
+DB User	:id3793042_root
+DB Host	:localhost
